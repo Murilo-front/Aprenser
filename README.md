@@ -50,7 +50,7 @@ Exemplo do rodapé no final da página, incluindo informações de contato e uso
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Murilo-front/Apenser.git meu-projeto
+git clone https://github.com/Murilo-front/Aprenser.git meu-projeto
 ```
 
 2. Acesse a pasta do projeto:
